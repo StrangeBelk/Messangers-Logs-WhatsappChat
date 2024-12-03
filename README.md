@@ -2,6 +2,7 @@
 
 ## Instructions
 ### STEP #1. Export neccesary chats:
+Original instruction ( [URL](https://faq.whatsapp.com/1180414079177245/?cms_platform=android) )
 1. Open Whatwapp on your phone
 2. Open Required to export chat
 3. Open chat menu "⠇"
