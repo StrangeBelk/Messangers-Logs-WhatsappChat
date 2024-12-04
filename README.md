@@ -1,4 +1,4 @@
-# Messangers analytics — Logs — Whatsapp Chat
+# Messengers analytics — Logs — Whatsapp Chat
 
 ## Instructions
 ### STEP #1. Export neccesary chats:
